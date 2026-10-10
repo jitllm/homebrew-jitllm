@@ -5,4 +5,4 @@ brew install --cask jitllm/tap/jitllm   # jitllm.app, with jitllm and jitllmd on
 brew install jitllm/tap/jitllm          # the command-line programs only
 ```
 
-The cask and formula are generated from each [jitllm release](https://github.com/samyfodil/jitllm/releases) and updated automatically.
+The cask and formula are generated from each [jitllm release](https://github.com/jitllm/jitllm/releases) and updated automatically.
