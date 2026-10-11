@@ -17,7 +17,6 @@ cask "jitllm" do
   end
 
   depends_on macos: ">= :monterey"
-  conflicts_with formula: "jitllm"
 
   app "jitllm.app"
   binary "#{appdir}/jitllm.app/Contents/Resources/bin/jitllm"
